@@ -19,6 +19,8 @@ Branches are helpful if I'm trying to make a temporary change in order to test s
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams allow me to see where branches diverged from the master.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
