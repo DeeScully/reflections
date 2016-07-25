@@ -28,3 +28,5 @@ Merging results in all changes made in the two branches being implemented in the
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Auto merge takes a lot of guess work out of having the find the different code.  Con of auto merging is that it doesn't resolve conflicts.
