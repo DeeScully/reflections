@@ -24,5 +24,7 @@ Diagrams allow me to see where branches diverged from the master.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging results in all changes made in the two branches being implemented in the branch you chose.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
