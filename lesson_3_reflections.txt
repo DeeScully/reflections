@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Master is only for files with stable data.  I'd want to establish a branch to experiment/test, that way if I introduce errors, it will not interfere with my stable master branch.
